@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {color:blue}
+h1 {font-size: 60px}
+h1 {font-family: mono}
+p {color:red}
+p {font-size: 30px}
+p {font-class: monospace}
+</style>
+<body>
+<title>A Page About Me: Brendan Delaney</title>
+
+<h1>A Page About Me: Brendan Delaney</h1>
+<main>
+
+<img src="https://i.ibb.co/f2P4N5t/Me.jpg" alt="Me"
+
+
+<p>Hey, my name is Brendan Delaney and I'm here to let you know a little bit about myself.</p>
+
+<h2>Hobbies</h2>
+<p> A couple hobbies I personally enjoy are basketball and video games. My entire life I was taught and trained to be a hcokey player, but I never really liked it. In 2018, i found the love of my life, beasketball. Ever since then, I've put my all into this sport and love it. I try to play it everyday but becasuer of corona and struggles to find open gyms, i haven't been able to play that much recently. Secondly, video games. I've played Video games my entire life and always found it as a great way to connect with people from all over the world. I will continue to love them as they continue to bring me joy.</p>
+
+<h3>Family</h3>
+<p>Family is very important to me. I love my family. I have a dad, a mom, 2 sisters and a dog, but my family goes bigger than that. My mom is the 3rd child of 7! My mom's massive family has led me to have 23 cousins and counting! My dad's side is a little smaller, where I only have 2 cousins. </p>
+
+
+</body>
+</html>
